@@ -1,0 +1,11 @@
+az group create \
+--name phun-3mtt-dev-eastus \
+--location eastus
+
+az group create \
+--name phun-3mtt-prod-eastus \
+--location eastus
+
+az group create \
+--name phun-3mtt-temp-eastus \
+--location eastus
